@@ -30,7 +30,7 @@ ___________________________________________
 apt update && apt upgrade -y
 ```
 ```
-git clone https://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@github.com/userbotkontol12/gayoubotwann && cd gayoubotwann 
+git clone https://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@github.com/emauserbot/userbotema && cd userbotema 
 ```
 ```
 screen -S gayoubotwann
